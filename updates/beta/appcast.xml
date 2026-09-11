@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Shan</title>
         <item>
+            <title>0.1.0-beta.2</title>
+            <pubDate>Fri, 11 Sep 2026 15:55:59 +0800</pubDate>
+            <link>https://github.com/siyryu/shan/releases/tag/v0.1.0-beta.2</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>修复保存链接笔记时标题被截为 https---www 的问题；自动生成的同名标题现在使用递增后缀，不再导致保存失败。已有笔记路径保持不变。需要 Apple Silicon 与 macOS 26+；此版本未经 Apple 公证。</p>]]></description>
+            <enclosure url="https://github.com/siyryu/shan/releases/download/v0.1.0-beta.2/Shan-0.1.0-beta.2-arm64.dmg" length="322799718" type="application/octet-stream" sparkle:edSignature="sRYOBbpX9v7kZjA8Wg5pYK9g8Z4twyDvbtWtO1VsEA+u+GcfbaFDatjehEyR3bdNlwfqj1T2Yt4IYlhOKReyCQ=="/>
+        </item>
+        <item>
             <title>0.1.0-beta.1</title>
             <pubDate>Fri, 11 Sep 2026 15:28:01 +0800</pubDate>
             <link>https://github.com/siyryu/shan/releases/tag/v0.1.0-beta.1</link>
@@ -19,6 +30,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: qTKHRxk23r+2Fxuw3hFLI1rh62WdLrvBeZljZTMU/Hec9ybB+N2EeCvUy5esZuFQPzaBg8M25x3WMYFl/eNzDg==
-length: 1432
+edSignature: BrYW0QghFr4s7YGyXMWeZLuKWrFDsJWogiXCUQy00ftA+iXIqexEGAJb/aGT5YMKrCQgYvqqbBLWHUTiizJ5Aw==
+length: 2529
 -->
