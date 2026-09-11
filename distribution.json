@@ -1,0 +1,9 @@
+{
+  "product": "Shan",
+  "channel": "beta",
+  "architecture": "arm64",
+  "minimum_macos": "26.0",
+  "appcast": "https://raw.githubusercontent.com/siyryu/shan/main/updates/beta/appcast.xml",
+  "public_key": "Z2IoWT4kUveVmlsfdAOAtns788tOHAfNw9w2YoqDGYQ=",
+  "signing": "ad-hoc, not notarized"
+}
