@@ -13,12 +13,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.1.0-beta.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Shan Early Beta<br><br>Write notes, explore connected ideas, and get help from your AI agent.<br><br>What&#x27;s new<br>- English installation instructions and in-app release notes.<br>- English default workflow instructions. AI responses continue to use the language of your notes.<br>- Fixed URL-based note titles being cut off at the first period.<br>- Automatically generated duplicate note titles now receive a numbered suffix, so saving no longer fails because of a name collision. Existing note paths are unchanged.<br><br>Installation and updates<br>- Requires an Apple Silicon Mac running macOS 26 or later.<br>- Drag Shan to Applications, then open it.<br>- This early beta has not been notarized by Apple. If macOS blocks the first launch, open System Settings &gt; Privacy &amp; Security and choose Open Anyway.<br>- Choose Shan &gt; Check for Updates… to install future updates.</p>]]></description>
+            <description><![CDATA[<p>Shan Early Beta<br><br>A quiet space for your notes, connected ideas, and AI-assisted thinking.<br><br>What you can do with Shan<br>- Capture thoughts, questions, and links in a native Mac app.<br>- Connect your ideas with note references, search your notes, and explore them through nested comments.<br>- Ask an AI agent to explore questions using your notes and, when needed, information from the web.<br>- Let AI add relevant context and surface connections to earlier notes.<br>- Keep your notes as Markdown files in your own GitHub repository, with synchronization and version history.<br><br>Installation and updates<br>- Requires an Apple Silicon Mac running macOS 26 or later.<br>- Drag Shan to Applications, then open it.<br>- This early beta has not been notarized by Apple. If macOS blocks the first launch, open System Settings &gt; Privacy &amp; Security and choose Open Anyway.<br>- Choose Shan &gt; Check for Updates… to install future updates.</p>]]></description>
             <enclosure url="https://github.com/siyryu/shan/releases/download/v0.1.0-beta.3/Shan-0.1.0-beta.3-arm64.dmg" length="323966528" type="application/octet-stream" sparkle:edSignature="vUocs5c99MPYmAMrbUiG6ckDrc+lP4kemj9gZU/ILi6Wb5BIdoHc6Ixk6hBY60vkUsv7hAKLly3G1TybvVwIDg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Yvo03eRBGjGctrEAjgB/OV+pQiKQZkS5IfRESicYWXKBvaaF2Wl3XYSLjR6wc6fitO+x54+xN2iJo3oE0JS4Aw==
-length: 2169
+edSignature: hSOGmeM2VcwJ2b/iUbWWuPeDvYfdY8OZHxOOzJ3+l8fWggfXZj7ovygadEIbJcpEP0o+NQQgos36R/VgaesmBA==
+length: 2237
 -->
