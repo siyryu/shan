@@ -6,19 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Shan</title>
         <item>
-            <title>0.1.0-beta.6</title>
-            <pubDate>Mon, 14 Sep 2026 11:05:23 +0000</pubDate>
-            <link>https://github.com/siyryu/shan/releases/tag/v0.1.0-beta.6</link>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.0-beta.6</sparkle:shortVersionString>
+            <title>0.1.0-beta.7</title>
+            <pubDate>Mon, 14 Sep 2026 11:40:22 +0000</pubDate>
+            <link>https://github.com/siyryu/shan/releases/tag/v0.1.0-beta.7</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0-beta.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Automatic sync and clearer notebook controls. Keep notes up to date when Shan opens, wakes, or reconnects, with automatic retries for temporary connection failures. View sync details and Agent errors from a simpler notebook menu, and use consistent note actions. Preserve custom reference labels. Model settings now show clear loading stages and recover from cloud timeouts. Requires an Apple Silicon Mac running macOS 26 or later. This beta has not been notarized by Apple.</p>]]></description>
-            <enclosure url="https://github.com/siyryu/shan/releases/download/v0.1.0-beta.6/Shan-0.1.0-beta.6-arm64.dmg" length="122176281" type="application/octet-stream" sparkle:edSignature="bIdBQD1t4SpwxuVPc1vAHTgZ5SjEOGaBvPjdgTk0IaNHFgJd+tSzgHd3ud0XdC4q1J0VWrkhtdyHyxWW7HKTDA=="/>
+            <description><![CDATA[<p>Capture a focused Mac window with Left Command + Right Command. Start a note with a capture reference, screenshot, and available window text. Preview captures with soft edges and open original screenshots in your default image viewer. Includes reliability fixes for capture timeouts and unsaved editing. Requires an Apple Silicon Mac running macOS 26 or later. This beta has not been notarized by Apple.</p>]]></description>
+            <enclosure url="https://github.com/siyryu/shan/releases/download/v0.1.0-beta.7/Shan-0.1.0-beta.7-arm64.dmg" length="119916462" type="application/octet-stream" sparkle:edSignature="Aixd85Ccx1hSe9mYSOnS3FH3M8tpkiyTta3GZyoMOgxewGhk6U710TLqKN15qUmgdyJDiuOczqKhVIVkdRFaCA=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: OwynihkmnsPuSJ8npOqPGhIyw6PfcnGVzXNFhFunHLjD2APi+SR0tejdfjPNVEoR0qvdti4sNvDQ2yW6wbxJDw==
-length: 1750
+edSignature: 8eOQszFloUaZ3ZwZlHC7RTdxmyfCt8XdfB8GRrCq1FRQN/wxTd/Iz2+Gg8oIwuTT9nFVgGxbV5upku7ngptFBw==
+length: 1679
 -->
